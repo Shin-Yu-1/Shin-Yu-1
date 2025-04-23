@@ -1,16 +1,22 @@
-<h1 align="center">Hi 👋 I'm Shin-Yu(신규유저)</h1>
+<h3 align="left">Welcome,</h3>
+<h1 align="left">👋 I'm Shin-Yu(신규유저)</h1>
 
-<p align="center">
+<p align="left">
   💻 Web•Front-End Engineer | 🔍 Lifelong Learner | ✨ Maker
 </p>
 
+<br />
+
 ---
+
 
 ## 🐵 About Me
   [![Linkedin Badge](https://img.shields.io/badge/-tistory-black?style=flat-square&logo=Tistory&logoColor=white&link=https://shin-yu.tistory.com/)](https://shin-yu.tistory.com/)
 - 🧩 코드의 재사용성과 유지보수성을 중요하게 생각합니다.
 - 🔍 새로운 기술 스택을 실험하며 라이브러리 뜯어보는 것을 즐깁니다.
 - 📌 협업과 커뮤니케이션에 강점을 가지고 있습니다.
+
+<br />
 
 ---
 
@@ -37,6 +43,9 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![SVN](https://img.shields.io/badge/SVN-809CC9?style=flat-square&logo=subversion&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+
+<br />
 
 ---
 
