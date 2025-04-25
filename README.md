@@ -1,5 +1,5 @@
-<h3 align="left">Welcome,</h3>
-<h1 align="left">👋 I'm Shin-Yu(신규유저)</h1>
+<h3 align="left">안녕하세요,</h3>
+<h1 align="left">👋 박재경입니다</h1>
 
 <p align="left">
   💻 Web•Front-End Engineer | 🔍 Lifelong Learner | ✨ Maker
